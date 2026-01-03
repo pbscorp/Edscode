@@ -1,2 +1,2 @@
 # Edscode
-slideshow
+slideshow details
